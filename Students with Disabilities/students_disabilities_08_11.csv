@@ -1,0 +1,626 @@
+District ID,District Name,School Year,Total PreK Students with Disabilities,PreK Students with Disabilities Age 3,PreK Students with Disabilities Age 4,PreK Students with Disabilities Age 5,PreK Students with Disabilities Age 6,PreK Students with Disabilities Age 7,PreK Students with Disabilities Age 8
+1,Andover School District,2010-11,7,6,1,0,0,0,0
+2,Ansonia School District,2010-11,16,11,5,0,0,0,0
+3,Ashford School District,2010-11,7,3,3,1,0,0,0
+4,Avon School District,2010-11,21,9,12,0,0,0,0
+5,Barkhamsted School District,2010-11,7,3,4,0,0,0,0
+7,Berlin School District,2010-11,31,13,15,3,0,0,0
+8,Bethany School District,2010-11,8,3,5,0,0,0,0
+9,Bethel School District,2010-11,34,9,24,1,0,0,0
+11,Bloomfield School District,2010-11,16,10,6,0,0,0,0
+12,Bolton School District,2010-11,**,**,**,**,**,**,**
+13,Bozrah School District,2010-11,**,**,**,**,**,**,**
+14,Branford School District,2010-11,37,14,19,4,0,0,0
+15,Bridgeport School District,2010-11,235,121,114,0,0,0,0
+17,Bristol School District,2010-11,97,46,46,5,0,0,0
+18,Brookfield School District,2010-11,25,19,6,0,0,0,0
+19,Brooklyn School District,2010-11,6,3,3,0,0,0,0
+22,Canterbury School District,2010-11,**,**,**,**,**,**,**
+23,Canton School District,2010-11,18,4,9,4,1,0,0
+24,Chaplin School District,2010-11,**,**,**,**,**,**,**
+25,Cheshire School District,2010-11,41,12,19,10,0,0,0
+26,Chester School District,2010-11,7,1,6,0,0,0,0
+27,Clinton School District,2010-11,16,7,8,1,0,0,0
+28,Colchester School District,2010-11,29,11,14,4,0,0,0
+29,Colebrook School District,2010-11,**,**,**,**,**,**,**
+30,Columbia School District,2010-11,12,5,6,1,0,0,0
+31,Cornwall School District,2010-11,**,**,**,**,**,**,**
+32,Coventry School District,2010-11,13,9,3,1,0,0,0
+33,Cromwell School District,2010-11,16,7,8,1,0,0,0
+34,Danbury School District,2010-11,95,48,44,1,1,1,0
+35,Darien School District,2010-11,40,21,19,0,0,0,0
+36,Deep River School District,2010-11,7,4,2,1,0,0,0
+37,Derby School District,2010-11,11,6,5,0,0,0,0
+40,East Granby School District,2010-11,**,**,**,**,**,**,**
+41,East Haddam School District,2010-11,14,3,10,1,0,0,0
+42,East Hampton School District,2010-11,8,3,5,0,0,0,0
+43,East Hartford School District,2010-11,63,38,23,1,0,0,1
+44,East Haven School District,2010-11,49,21,18,10,0,0,0
+45,East Lyme School District,2010-11,23,10,12,1,0,0,0
+47,East Windsor School District,2010-11,21,14,7,0,0,0,0
+39,Eastford School District,2010-11,**,**,**,**,**,**,**
+46,Easton School District,2010-11,7,2,5,0,0,0,0
+48,Ellington School District,2010-11,21,13,8,0,0,0,0
+49,Enfield School District,2010-11,46,20,26,0,0,0,0
+50,Essex School District,2010-11,11,4,5,2,0,0,0
+51,Fairfield School District,2010-11,92,35,52,5,0,0,0
+52,Farmington School District,2010-11,30,10,19,1,0,0,0
+53,Franklin School District,2010-11,**,**,**,**,**,**,**
+54,Glastonbury School District,2010-11,44,24,20,0,0,0,0
+56,Granby School District,2010-11,15,9,6,0,0,0,0
+57,Greenwich School District,2010-11,49,27,18,4,0,0,0
+58,Griswold School District,2010-11,14,4,10,0,0,0,0
+59,Groton School District,2010-11,67,33,34,0,0,0,0
+60,Guilford School District,2010-11,24,11,12,1,0,0,0
+62,Hamden School District,2010-11,45,23,21,0,1,0,0
+63,Hampton School District,2010-11,**,**,**,**,**,**,**
+64,Hartford School District,2010-11,157,81,76,0,0,0,0
+65,Hartland School District,2010-11,7,3,4,0,0,0,0
+67,Hebron School District,2010-11,35,12,23,0,0,0,0
+68,Kent School District,2010-11,**,**,**,**,**,**,**
+69,Killingly School District,2010-11,48,21,26,1,0,0,0
+71,Lebanon School District,2010-11,28,7,10,11,0,0,0
+72,Ledyard School District,2010-11,24,7,15,2,0,0,0
+73,Lisbon School District,2010-11,6,3,3,0,0,0,0
+74,Litchfield School District,2010-11,8,4,4,0,0,0,0
+76,Madison School District,2010-11,31,11,16,3,1,0,0
+77,Manchester School District,2010-11,63,35,26,2,0,0,0
+78,Mansfield School District,2010-11,23,4,19,0,0,0,0
+79,Marlborough School District,2010-11,10,3,6,1,0,0,0
+80,Meriden School District,2010-11,95,39,53,2,1,0,0
+83,Middletown School District,2010-11,58,30,26,2,0,0,0
+84,Milford School District,2010-11,40,18,20,2,0,0,0
+85,Monroe School District,2010-11,39,15,21,3,0,0,0
+86,Montville School District,2010-11,25,13,11,1,0,0,0
+88,Naugatuck School District,2010-11,34,18,16,0,0,0,0
+89,New Britain School District,2010-11,138,69,69,0,0,0,0
+90,New Canaan School District,2010-11,24,6,12,5,1,0,0
+91,New Fairfield School District,2010-11,40,17,19,4,0,0,0
+92,New Hartford School District,2010-11,9,4,4,1,0,0,0
+93,New Haven School District,2010-11,178,90,84,2,0,2,0
+95,New London School District,2010-11,36,18,18,0,0,0,0
+96,New Milford School District,2010-11,31,13,17,1,0,0,0
+94,Newington School District,2010-11,41,16,22,3,0,0,0
+97,Newtown School District,2010-11,52,19,31,2,0,0,0
+98,Norfolk School District,2010-11,**,**,**,**,**,**,**
+99,North Branford School District,2010-11,16,11,5,0,0,0,0
+100,North Canaan School District,2010-11,6,3,3,0,0,0,0
+101,North Haven School District,2010-11,17,9,8,0,0,0,0
+102,North Stonington School District,2010-11,7,5,2,0,0,0,0
+103,Norwalk School District,2010-11,74,32,36,6,0,0,0
+104,Norwich School District,2010-11,63,31,30,2,0,0,0
+106,Old Saybrook School District,2010-11,13,7,5,1,0,0,0
+107,Orange School District,2010-11,14,6,7,1,0,0,0
+108,Oxford School District,2010-11,19,8,9,2,0,0,0
+109,Plainfield School District,2010-11,27,9,18,0,0,0,0
+110,Plainville School District,2010-11,36,18,18,0,0,0,0
+111,Plymouth School District,2010-11,16,7,9,0,0,0,0
+112,Pomfret School District,2010-11,**,**,**,**,**,**,**
+113,Portland School District,2010-11,8,2,5,1,0,0,0
+114,Preston School District,2010-11,7,2,4,1,0,0,0
+116,Putnam School District,2010-11,22,9,13,0,0,0,0
+117,Redding School District,2010-11,14,5,7,2,0,0,0
+206,Regional School District 06,2010-11,7,4,3,0,0,0,0
+210,Regional School District 10,2010-11,31,11,15,5,0,0,0
+212,Regional School District 12,2010-11,7,2,4,1,0,0,0
+213,Regional School District 13,2010-11,15,10,4,1,0,0,0
+214,Regional School District 14,2010-11,12,8,4,0,0,0,0
+215,Regional School District 15,2010-11,39,12,21,6,0,0,0
+216,Regional School District 16,2010-11,20,12,8,0,0,0,0
+217,Regional School District 17,2010-11,20,9,11,0,0,0,0
+218,Regional School District 18,2010-11,16,8,5,3,0,0,0
+118,Ridgefield School District,2010-11,23,13,10,0,0,0,0
+119,Rocky Hill School District,2010-11,21,10,9,2,0,0,0
+121,Salem School District,2010-11,**,**,**,**,**,**,**
+122,Salisbury School District,2010-11,9,2,6,1,0,0,0
+123,Scotland School District,2010-11,**,**,**,**,**,**,**
+124,Seymour School District,2010-11,14,13,1,0,0,0,0
+125,Sharon School District,2010-11,**,**,**,**,**,**,**
+126,Shelton School District,2010-11,37,14,21,2,0,0,0
+127,Sherman School District,2010-11,**,**,**,**,**,**,**
+128,Simsbury School District,2010-11,28,13,13,2,0,0,0
+129,Somers School District,2010-11,6,3,2,0,1,0,0
+132,South Windsor School District,2010-11,46,20,23,3,0,0,0
+131,Southington School District,2010-11,56,25,28,3,0,0,0
+133,Sprague School District,2010-11,**,**,**,**,**,**,**
+134,Stafford School District,2010-11,6,3,2,1,0,0,0
+135,Stamford School District,2010-11,74,35,39,0,0,0,0
+136,Sterling School District,2010-11,**,**,**,**,**,**,**
+137,Stonington School District,2010-11,24,10,13,1,0,0,0
+138,Stratford School District,2010-11,60,35,23,2,0,0,0
+139,Suffield School District,2010-11,20,6,13,1,0,0,0
+140,Thomaston School District,2010-11,15,6,8,1,0,0,0
+141,Thompson School District,2010-11,8,2,6,0,0,0,0
+142,Tolland School District,2010-11,22,12,9,1,0,0,0
+143,Torrington School District,2010-11,50,16,33,1,0,0,0
+144,Trumbull School District,2010-11,69,21,38,10,0,0,0
+146,Vernon School District,2010-11,40,23,16,1,0,0,0
+147,Voluntown School District,2010-11,**,**,**,**,**,**,**
+148,Wallingford School District,2010-11,39,20,14,5,0,0,0
+151,Waterbury School District,2010-11,169,85,77,7,0,0,0
+152,Waterford School District,2010-11,17,9,8,0,0,0,0
+153,Watertown School District,2010-11,22,12,9,1,0,0,0
+155,West Hartford School District,2010-11,83,36,46,1,0,0,0
+156,West Haven School District,2010-11,71,32,36,3,0,0,0
+154,Westbrook School District,2010-11,12,3,9,0,0,0,0
+157,Weston School District,2010-11,18,6,9,3,0,0,0
+158,Westport School District,2010-11,40,17,21,2,0,0,0
+159,Wethersfield School District,2010-11,36,14,19,3,0,0,0
+160,Willington School District,2010-11,**,**,**,**,**,**,**
+161,Wilton School District,2010-11,37,9,24,4,0,0,0
+162,Winchester School District,2010-11,18,6,11,1,0,0,0
+163,Windham School District,2010-11,40,21,19,0,0,0,0
+165,Windsor Locks School District,2010-11,11,5,6,0,0,0,0
+164,Windsor School District,2010-11,38,20,17,1,0,0,0
+166,Wolcott School District,2010-11,16,6,9,1,0,0,0
+167,Woodbridge School District,2010-11,7,3,4,0,0,0,0
+169,Woodstock School District,2010-11,6,3,3,0,0,0,0
+1,Andover School District,2009-10,**,**,**,**,**,**,**
+2,Ansonia School District,2009-10,18,9,9,0,0,0,0
+3,Ashford School District,2009-10,**,**,**,**,**,**,**
+4,Avon School District,2009-10,20,11,6,3,0,0,0
+5,Barkhamsted School District,2009-10,6,3,2,1,0,0,0
+7,Berlin School District,2009-10,35,15,18,2,0,0,0
+8,Bethany School District,2009-10,14,6,8,0,0,0,0
+9,Bethel School District,2009-10,33,17,14,2,0,0,0
+11,Bloomfield School District,2009-10,12,8,4,0,0,0,0
+12,Bolton School District,2009-10,**,**,**,**,**,**,**
+13,Bozrah School District,2009-10,10,2,8,0,0,0,0
+14,Branford School District,2009-10,36,16,17,3,0,0,0
+15,Bridgeport School District,2009-10,215,134,80,1,0,0,0
+17,Bristol School District,2009-10,91,44,45,2,0,0,0
+18,Brookfield School District,2009-10,20,7,12,1,0,0,0
+19,Brooklyn School District,2009-10,12,4,8,0,0,0,0
+21,Canaan School District,2009-10,**,**,**,**,**,**,**
+22,Canterbury School District,2009-10,6,1,5,0,0,0,0
+23,Canton School District,2009-10,16,6,9,1,0,0,0
+24,Chaplin School District,2009-10,**,**,**,**,**,**,**
+25,Cheshire School District,2009-10,39,17,19,2,1,0,0
+26,Chester School District,2009-10,6,4,1,1,0,0,0
+27,Clinton School District,2009-10,18,6,12,0,0,0,0
+28,Colchester School District,2009-10,40,10,25,5,0,0,0
+29,Colebrook School District,2009-10,**,**,**,**,**,**,**
+30,Columbia School District,2009-10,7,4,3,0,0,0,0
+31,Cornwall School District,2009-10,**,**,**,**,**,**,**
+32,Coventry School District,2009-10,12,5,7,0,0,0,0
+33,Cromwell School District,2009-10,16,7,7,2,0,0,0
+34,Danbury School District,2009-10,97,42,50,2,3,0,0
+35,Darien School District,2009-10,34,19,14,1,0,0,0
+36,Deep River School District,2009-10,**,**,**,**,**,**,**
+37,Derby School District,2009-10,15,7,6,2,0,0,0
+40,East Granby School District,2009-10,6,3,3,0,0,0,0
+41,East Haddam School District,2009-10,15,8,7,0,0,0,0
+42,East Hampton School District,2009-10,10,5,5,0,0,0,0
+43,East Hartford School District,2009-10,52,30,20,1,0,1,0
+44,East Haven School District,2009-10,42,11,25,6,0,0,0
+45,East Lyme School District,2009-10,24,6,18,0,0,0,0
+47,East Windsor School District,2009-10,11,6,5,0,0,0,0
+39,Eastford School District,2009-10,**,**,**,**,**,**,**
+46,Easton School District,2009-10,11,3,8,0,0,0,0
+48,Ellington School District,2009-10,19,7,11,1,0,0,0
+49,Enfield School District,2009-10,56,33,23,0,0,0,0
+50,Essex School District,2009-10,8,4,3,1,0,0,0
+51,Fairfield School District,2009-10,109,51,51,7,0,0,0
+52,Farmington School District,2009-10,33,18,12,3,0,0,0
+53,Franklin School District,2009-10,**,**,**,**,**,**,**
+54,Glastonbury School District,2009-10,49,18,27,4,0,0,0
+56,Granby School District,2009-10,13,4,8,1,0,0,0
+57,Greenwich School District,2009-10,45,21,22,2,0,0,0
+58,Griswold School District,2009-10,23,14,9,0,0,0,0
+59,Groton School District,2009-10,53,25,28,0,0,0,0
+60,Guilford School District,2009-10,21,11,8,2,0,0,0
+62,Hamden School District,2009-10,58,19,37,2,0,0,0
+63,Hampton School District,2009-10,**,**,**,**,**,**,**
+64,Hartford School District,2009-10,165,85,77,2,1,0,0
+65,Hartland School District,2009-10,6,2,3,1,0,0,0
+67,Hebron School District,2009-10,34,22,9,3,0,0,0
+68,Kent School District,2009-10,**,**,**,**,**,**,**
+69,Killingly School District,2009-10,42,21,20,1,0,0,0
+71,Lebanon School District,2009-10,17,3,14,0,0,0,0
+72,Ledyard School District,2009-10,22,11,10,1,0,0,0
+73,Lisbon School District,2009-10,9,2,6,1,0,0,0
+74,Litchfield School District,2009-10,8,3,4,0,1,0,0
+76,Madison School District,2009-10,24,10,11,2,0,0,1
+77,Manchester School District,2009-10,75,33,40,2,0,0,0
+78,Mansfield School District,2009-10,20,14,6,0,0,0,0
+79,Marlborough School District,2009-10,12,5,7,0,0,0,0
+80,Meriden School District,2009-10,107,61,42,4,0,0,0
+83,Middletown School District,2009-10,44,24,18,2,0,0,0
+84,Milford School District,2009-10,38,22,16,0,0,0,0
+85,Monroe School District,2009-10,35,18,17,0,0,0,0
+86,Montville School District,2009-10,25,7,18,0,0,0,0
+88,Naugatuck School District,2009-10,28,12,16,0,0,0,0
+89,New Britain School District,2009-10,132,76,55,0,0,1,0
+90,New Canaan School District,2009-10,32,9,17,6,0,0,0
+91,New Fairfield School District,2009-10,34,15,19,0,0,0,0
+92,New Hartford School District,2009-10,13,4,7,2,0,0,0
+93,New Haven School District,2009-10,155,74,75,2,2,1,1
+95,New London School District,2009-10,44,19,23,2,0,0,0
+96,New Milford School District,2009-10,36,13,22,1,0,0,0
+94,Newington School District,2009-10,44,22,20,2,0,0,0
+97,Newtown School District,2009-10,48,24,21,3,0,0,0
+99,North Branford School District,2009-10,11,7,4,0,0,0,0
+100,North Canaan School District,2009-10,**,**,**,**,**,**,**
+101,North Haven School District,2009-10,21,10,11,0,0,0,0
+102,North Stonington School District,2009-10,**,**,**,**,**,**,**
+103,Norwalk School District,2009-10,87,36,45,6,0,0,0
+104,Norwich School District,2009-10,64,32,31,1,0,0,0
+106,Old Saybrook School District,2009-10,9,2,7,0,0,0,0
+107,Orange School District,2009-10,14,6,7,1,0,0,0
+108,Oxford School District,2009-10,20,5,10,5,0,0,0
+109,Plainfield School District,2009-10,28,18,10,0,0,0,0
+110,Plainville School District,2009-10,34,11,23,0,0,0,0
+111,Plymouth School District,2009-10,16,8,7,1,0,0,0
+112,Pomfret School District,2009-10,10,3,6,1,0,0,0
+113,Portland School District,2009-10,17,5,11,1,0,0,0
+114,Preston School District,2009-10,**,**,**,**,**,**,**
+116,Putnam School District,2009-10,23,12,11,0,0,0,0
+117,Redding School District,2009-10,12,5,6,1,0,0,0
+206,Regional School District 06,2009-10,7,3,4,0,0,0,0
+210,Regional School District 10,2009-10,28,15,13,0,0,0,0
+212,Regional School District 12,2009-10,14,8,4,2,0,0,0
+213,Regional School District 13,2009-10,11,4,6,1,0,0,0
+214,Regional School District 14,2009-10,12,2,9,1,0,0,0
+215,Regional School District 15,2009-10,39,16,18,5,0,0,0
+216,Regional School District 16,2009-10,20,10,9,1,0,0,0
+217,Regional School District 17,2009-10,19,6,9,4,0,0,0
+218,Regional School District 18,2009-10,17,5,8,4,0,0,0
+118,Ridgefield School District,2009-10,33,14,19,0,0,0,0
+119,Rocky Hill School District,2009-10,23,11,10,2,0,0,0
+121,Salem School District,2009-10,**,**,**,**,**,**,**
+122,Salisbury School District,2009-10,**,**,**,**,**,**,**
+123,Scotland School District,2009-10,**,**,**,**,**,**,**
+124,Seymour School District,2009-10,23,10,13,0,0,0,0
+125,Sharon School District,2009-10,**,**,**,**,**,**,**
+126,Shelton School District,2009-10,48,22,25,1,0,0,0
+127,Sherman School District,2009-10,**,**,**,**,**,**,**
+128,Simsbury School District,2009-10,24,12,10,2,0,0,0
+129,Somers School District,2009-10,7,5,2,0,0,0,0
+132,South Windsor School District,2009-10,46,20,25,1,0,0,0
+131,Southington School District,2009-10,56,24,29,3,0,0,0
+133,Sprague School District,2009-10,**,**,**,**,**,**,**
+134,Stafford School District,2009-10,12,2,7,3,0,0,0
+135,Stamford School District,2009-10,71,36,35,0,0,0,0
+136,Sterling School District,2009-10,**,**,**,**,**,**,**
+137,Stonington School District,2009-10,32,14,18,0,0,0,0
+138,Stratford School District,2009-10,61,32,26,1,0,2,0
+139,Suffield School District,2009-10,22,11,9,2,0,0,0
+140,Thomaston School District,2009-10,12,4,8,0,0,0,0
+141,Thompson School District,2009-10,12,8,4,0,0,0,0
+142,Tolland School District,2009-10,22,12,9,1,0,0,0
+143,Torrington School District,2009-10,59,28,28,3,0,0,0
+144,Trumbull School District,2009-10,73,29,34,10,0,0,0
+145,Union School District,2009-10,**,**,**,**,**,**,**
+146,Vernon School District,2009-10,38,19,19,0,0,0,0
+147,Voluntown School District,2009-10,**,**,**,**,**,**,**
+148,Wallingford School District,2009-10,44,17,24,3,0,0,0
+151,Waterbury School District,2009-10,204,95,103,6,0,0,0
+152,Waterford School District,2009-10,24,14,10,0,0,0,0
+153,Watertown School District,2009-10,15,4,10,1,0,0,0
+155,West Hartford School District,2009-10,94,46,40,8,0,0,0
+156,West Haven School District,2009-10,79,37,36,6,0,0,0
+154,Westbrook School District,2009-10,13,5,8,0,0,0,0
+157,Weston School District,2009-10,19,9,7,3,0,0,0
+158,Westport School District,2009-10,38,22,14,2,0,0,0
+159,Wethersfield School District,2009-10,39,16,19,4,0,0,0
+160,Willington School District,2009-10,9,5,3,1,0,0,0
+161,Wilton School District,2009-10,29,16,12,1,0,0,0
+162,Winchester School District,2009-10,16,6,9,1,0,0,0
+163,Windham School District,2009-10,43,25,16,2,0,0,0
+165,Windsor Locks School District,2009-10,16,9,7,0,0,0,0
+164,Windsor School District,2009-10,35,11,19,5,0,0,0
+166,Wolcott School District,2009-10,15,7,8,0,0,0,0
+167,Woodbridge School District,2009-10,6,3,2,1,0,0,0
+169,Woodstock School District,2009-10,7,4,1,2,0,0,0
+1,Andover School District,2008-09,**,**,**,**,**,**,**
+2,Ansonia School District,2008-09,18,7,11,0,0,0,0
+3,Ashford School District,2008-09,**,**,**,**,**,**,**
+4,Avon School District,2008-09,17,6,10,1,0,0,0
+5,Barkhamsted School District,2008-09,**,**,**,**,**,**,**
+7,Berlin School District,2008-09,31,18,11,2,0,0,0
+8,Bethany School District,2008-09,11,5,5,1,0,0,0
+9,Bethel School District,2008-09,25,11,12,2,0,0,0
+11,Bloomfield School District,2008-09,14,5,8,1,0,0,0
+12,Bolton School District,2008-09,**,**,**,**,**,**,**
+13,Bozrah School District,2008-09,7,5,1,1,0,0,0
+14,Branford School District,2008-09,41,15,14,12,0,0,0
+15,Bridgeport School District,2008-09,184,99,84,1,0,0,0
+17,Bristol School District,2008-09,89,46,38,4,1,0,0
+18,Brookfield School District,2008-09,21,11,9,1,0,0,0
+19,Brooklyn School District,2008-09,10,6,4,0,0,0,0
+21,Canaan School District,2008-09,**,**,**,**,**,**,**
+22,Canterbury School District,2008-09,9,5,4,0,0,0,0
+23,Canton School District,2008-09,14,7,5,2,0,0,0
+24,Chaplin School District,2008-09,**,**,**,**,**,**,**
+25,Cheshire School District,2008-09,37,17,13,7,0,0,0
+26,Chester School District,2008-09,6,2,2,2,0,0,0
+27,Clinton School District,2008-09,28,16,11,1,0,0,0
+28,Colchester School District,2008-09,44,20,21,3,0,0,0
+29,Colebrook School District,2008-09,6,3,3,0,0,0,0
+30,Columbia School District,2008-09,**,**,**,**,**,**,**
+31,Cornwall School District,2008-09,**,**,**,**,**,**,**
+32,Coventry School District,2008-09,16,10,5,0,1,0,0
+33,Cromwell School District,2008-09,17,5,8,4,0,0,0
+34,Danbury School District,2008-09,90,43,35,9,1,2,0
+35,Darien School District,2008-09,29,14,14,1,0,0,0
+36,Deep River School District,2008-09,**,**,**,**,**,**,**
+37,Derby School District,2008-09,16,8,8,0,0,0,0
+40,East Granby School District,2008-09,**,**,**,**,**,**,**
+41,East Haddam School District,2008-09,7,5,2,0,0,0,0
+42,East Hampton School District,2008-09,10,6,3,1,0,0,0
+43,East Hartford School District,2008-09,67,22,43,1,1,0,0
+44,East Haven School District,2008-09,36,14,17,4,1,0,0
+45,East Lyme School District,2008-09,24,13,9,2,0,0,0
+47,East Windsor School District,2008-09,13,7,6,0,0,0,0
+39,Eastford School District,2008-09,**,**,**,**,**,**,**
+46,Easton School District,2008-09,10,4,5,1,0,0,0
+48,Ellington School District,2008-09,22,12,10,0,0,0,0
+49,Enfield School District,2008-09,59,23,36,0,0,0,0
+50,Essex School District,2008-09,11,3,7,1,0,0,0
+51,Fairfield School District,2008-09,96,40,51,5,0,0,0
+52,Farmington School District,2008-09,31,13,18,0,0,0,0
+53,Franklin School District,2008-09,**,**,**,**,**,**,**
+54,Glastonbury School District,2008-09,51,20,30,1,0,0,0
+56,Granby School District,2008-09,13,6,7,0,0,0,0
+57,Greenwich School District,2008-09,47,21,23,3,0,0,0
+58,Griswold School District,2008-09,16,8,8,0,0,0,0
+59,Groton School District,2008-09,56,32,23,1,0,0,0
+60,Guilford School District,2008-09,19,4,13,2,0,0,0
+62,Hamden School District,2008-09,55,32,17,6,0,0,0
+63,Hampton School District,2008-09,7,3,4,0,0,0,0
+64,Hartford School District,2008-09,152,67,82,3,0,0,0
+65,Hartland School District,2008-09,**,**,**,**,**,**,**
+67,Hebron School District,2008-09,20,6,14,0,0,0,0
+68,Kent School District,2008-09,**,**,**,**,**,**,**
+69,Killingly School District,2008-09,41,18,19,4,0,0,0
+71,Lebanon School District,2008-09,21,13,7,1,0,0,0
+72,Ledyard School District,2008-09,23,7,16,0,0,0,0
+73,Lisbon School District,2008-09,7,5,2,0,0,0,0
+74,Litchfield School District,2008-09,9,4,4,1,0,0,0
+76,Madison School District,2008-09,23,10,9,3,0,1,0
+77,Manchester School District,2008-09,73,39,32,2,0,0,0
+78,Mansfield School District,2008-09,15,9,5,1,0,0,0
+79,Marlborough School District,2008-09,11,6,5,0,0,0,0
+80,Meriden School District,2008-09,81,33,46,2,0,0,0
+83,Middletown School District,2008-09,35,21,14,0,0,0,0
+84,Milford School District,2008-09,39,22,17,0,0,0,0
+85,Monroe School District,2008-09,35,16,17,2,0,0,0
+86,Montville School District,2008-09,27,16,11,0,0,0,0
+88,Naugatuck School District,2008-09,30,16,13,1,0,0,0
+89,New Britain School District,2008-09,130,70,58,0,2,0,0
+90,New Canaan School District,2008-09,34,11,18,5,0,0,0
+91,New Fairfield School District,2008-09,40,18,20,2,0,0,0
+92,New Hartford School District,2008-09,11,6,5,0,0,0,0
+93,New Haven School District,2008-09,156,90,57,6,2,1,0
+95,New London School District,2008-09,40,18,21,1,0,0,0
+96,New Milford School District,2008-09,42,19,22,1,0,0,0
+94,Newington School District,2008-09,46,18,25,3,0,0,0
+97,Newtown School District,2008-09,51,16,30,5,0,0,0
+98,Norfolk School District,2008-09,**,**,**,**,**,**,**
+99,North Branford School District,2008-09,14,5,9,0,0,0,0
+100,North Canaan School District,2008-09,7,1,6,0,0,0,0
+101,North Haven School District,2008-09,33,13,19,1,0,0,0
+102,North Stonington School District,2008-09,**,**,**,**,**,**,**
+103,Norwalk School District,2008-09,81,29,46,6,0,0,0
+104,Norwich School District,2008-09,61,32,26,2,0,0,1
+106,Old Saybrook School District,2008-09,17,6,9,2,0,0,0
+107,Orange School District,2008-09,11,4,7,0,0,0,0
+108,Oxford School District,2008-09,17,6,8,3,0,0,0
+109,Plainfield School District,2008-09,25,11,13,1,0,0,0
+110,Plainville School District,2008-09,25,14,11,0,0,0,0
+111,Plymouth School District,2008-09,10,2,8,0,0,0,0
+112,Pomfret School District,2008-09,14,7,7,0,0,0,0
+113,Portland School District,2008-09,16,9,5,2,0,0,0
+114,Preston School District,2008-09,6,3,3,0,0,0,0
+116,Putnam School District,2008-09,20,10,10,0,0,0,0
+117,Redding School District,2008-09,15,5,10,0,0,0,0
+206,Regional School District 06,2008-09,11,2,9,0,0,0,0
+210,Regional School District 10,2008-09,26,13,11,2,0,0,0
+212,Regional School District 12,2008-09,7,3,4,0,0,0,0
+213,Regional School District 13,2008-09,20,5,11,4,0,0,0
+214,Regional School District 14,2008-09,16,4,10,2,0,0,0
+215,Regional School District 15,2008-09,40,16,22,2,0,0,0
+216,Regional School District 16,2008-09,20,9,9,2,0,0,0
+217,Regional School District 17,2008-09,20,2,15,3,0,0,0
+218,Regional School District 18,2008-09,18,7,7,4,0,0,0
+118,Ridgefield School District,2008-09,37,12,23,2,0,0,0
+119,Rocky Hill School District,2008-09,21,7,13,1,0,0,0
+121,Salem School District,2008-09,7,2,3,2,0,0,0
+122,Salisbury School District,2008-09,8,0,8,0,0,0,0
+123,Scotland School District,2008-09,**,**,**,**,**,**,**
+124,Seymour School District,2008-09,29,12,17,0,0,0,0
+125,Sharon School District,2008-09,**,**,**,**,**,**,**
+126,Shelton School District,2008-09,40,22,18,0,0,0,0
+127,Sherman School District,2008-09,6,2,3,1,0,0,0
+128,Simsbury School District,2008-09,25,8,14,3,0,0,0
+129,Somers School District,2008-09,7,4,3,0,0,0,0
+132,South Windsor School District,2008-09,44,22,17,5,0,0,0
+131,Southington School District,2008-09,56,25,30,1,0,0,0
+133,Sprague School District,2008-09,**,**,**,**,**,**,**
+134,Stafford School District,2008-09,15,9,6,0,0,0,0
+135,Stamford School District,2008-09,88,44,42,2,0,0,0
+136,Sterling School District,2008-09,**,**,**,**,**,**,**
+137,Stonington School District,2008-09,23,10,12,1,0,0,0
+138,Stratford School District,2008-09,50,22,24,1,3,0,0
+139,Suffield School District,2008-09,30,10,18,2,0,0,0
+140,Thomaston School District,2008-09,14,8,5,1,0,0,0
+141,Thompson School District,2008-09,9,5,4,0,0,0,0
+142,Tolland School District,2008-09,21,8,13,0,0,0,0
+143,Torrington School District,2008-09,61,25,33,3,0,0,0
+144,Trumbull School District,2008-09,77,28,31,17,1,0,0
+146,Vernon School District,2008-09,34,17,17,0,0,0,0
+147,Voluntown School District,2008-09,**,**,**,**,**,**,**
+148,Wallingford School District,2008-09,51,19,31,1,0,0,0
+151,Waterbury School District,2008-09,212,104,90,17,1,0,0
+152,Waterford School District,2008-09,23,8,14,1,0,0,0
+153,Watertown School District,2008-09,24,8,14,2,0,0,0
+155,West Hartford School District,2008-09,84,37,42,5,0,0,0
+156,West Haven School District,2008-09,81,37,44,0,0,0,0
+154,Westbrook School District,2008-09,11,7,4,0,0,0,0
+157,Weston School District,2008-09,19,7,9,3,0,0,0
+158,Westport School District,2008-09,29,13,11,5,0,0,0
+159,Wethersfield School District,2008-09,30,8,21,0,1,0,0
+160,Willington School District,2008-09,9,5,4,0,0,0,0
+161,Wilton School District,2008-09,20,9,11,0,0,0,0
+162,Winchester School District,2008-09,20,9,10,1,0,0,0
+163,Windham School District,2008-09,35,14,20,1,0,0,0
+165,Windsor Locks School District,2008-09,18,7,11,0,0,0,0
+164,Windsor School District,2008-09,40,18,16,6,0,0,0
+166,Wolcott School District,2008-09,11,4,6,1,0,0,0
+167,Woodbridge School District,2008-09,**,**,**,**,**,**,**
+169,Woodstock School District,2008-09,**,**,**,**,**,**,**
+1,Andover School District,2007-08,**,**,**,**,**,**,**
+2,Ansonia School District,2007-08,23,12,10,1,0,0,0
+3,Ashford School District,2007-08,**,**,**,**,**,**,**
+4,Avon School District,2007-08,24,7,15,2,0,0,0
+5,Barkhamsted School District,2007-08,6,1,3,2,0,0,0
+7,Berlin School District,2007-08,30,12,17,1,0,0,0
+8,Bethany School District,2007-08,7,3,4,0,0,0,0
+9,Bethel School District,2007-08,30,12,17,1,0,0,0
+11,Bloomfield School District,2007-08,13,8,5,0,0,0,0
+12,Bolton School District,2007-08,**,**,**,**,**,**,**
+13,Bozrah School District,2007-08,**,**,**,**,**,**,**
+14,Branford School District,2007-08,37,11,19,5,1,1,0
+15,Bridgeport School District,2007-08,195,109,81,5,0,0,0
+17,Bristol School District,2007-08,87,40,45,2,0,0,0
+18,Brookfield School District,2007-08,20,10,9,1,0,0,0
+19,Brooklyn School District,2007-08,10,2,7,1,0,0,0
+21,Canaan School District,2007-08,**,**,**,**,**,**,**
+22,Canterbury School District,2007-08,6,4,2,0,0,0,0
+23,Canton School District,2007-08,14,3,10,1,0,0,0
+24,Chaplin School District,2007-08,**,**,**,**,**,**,**
+25,Cheshire School District,2007-08,37,13,19,5,0,0,0
+27,Clinton School District,2007-08,21,7,14,0,0,0,0
+28,Colchester School District,2007-08,41,18,21,2,0,0,0
+29,Colebrook School District,2007-08,**,**,**,**,**,**,**
+30,Columbia School District,2007-08,7,4,2,1,0,0,0
+31,Cornwall School District,2007-08,**,**,**,**,**,**,**
+32,Coventry School District,2007-08,13,4,8,1,0,0,0
+33,Cromwell School District,2007-08,18,6,11,1,0,0,0
+34,Danbury School District,2007-08,90,28,59,2,1,0,0
+35,Darien School District,2007-08,27,11,16,0,0,0,0
+36,Deep River School District,2007-08,21,9,9,3,0,0,0
+37,Derby School District,2007-08,18,11,6,1,0,0,0
+40,East Granby School District,2007-08,**,**,**,**,**,**,**
+41,East Haddam School District,2007-08,10,4,5,1,0,0,0
+42,East Hampton School District,2007-08,13,4,7,1,1,0,0
+43,East Hartford School District,2007-08,62,38,24,0,0,0,0
+44,East Haven School District,2007-08,32,15,14,3,0,0,0
+45,East Lyme School District,2007-08,23,7,12,4,0,0,0
+47,East Windsor School District,2007-08,12,7,4,1,0,0,0
+39,Eastford School District,2007-08,**,**,**,**,**,**,**
+46,Easton School District,2007-08,14,4,8,2,0,0,0
+48,Ellington School District,2007-08,20,10,10,0,0,0,0
+49,Enfield School District,2007-08,69,33,34,2,0,0,0
+50,Essex School District,2007-08,**,**,**,**,**,**,**
+51,Fairfield School District,2007-08,101,47,49,5,0,0,0
+52,Farmington School District,2007-08,25,17,8,0,0,0,0
+53,Franklin School District,2007-08,**,**,**,**,**,**,**
+54,Glastonbury School District,2007-08,47,17,23,7,0,0,0
+56,Granby School District,2007-08,12,8,4,0,0,0,0
+57,Greenwich School District,2007-08,53,19,29,5,0,0,0
+58,Griswold School District,2007-08,21,10,11,0,0,0,0
+59,Groton School District,2007-08,66,31,34,1,0,0,0
+60,Guilford School District,2007-08,26,10,15,1,0,0,0
+62,Hamden School District,2007-08,48,18,28,1,1,0,0
+63,Hampton School District,2007-08,**,**,**,**,**,**,**
+64,Hartford School District,2007-08,130,54,72,4,0,0,0
+67,Hebron School District,2007-08,15,10,5,0,0,0,0
+68,Kent School District,2007-08,**,**,**,**,**,**,**
+69,Killingly School District,2007-08,39,14,23,2,0,0,0
+71,Lebanon School District,2007-08,21,6,15,0,0,0,0
+72,Ledyard School District,2007-08,24,11,13,0,0,0,0
+73,Lisbon School District,2007-08,10,5,5,0,0,0,0
+74,Litchfield School District,2007-08,8,2,4,2,0,0,0
+76,Madison School District,2007-08,27,7,16,3,1,0,0
+77,Manchester School District,2007-08,72,42,29,1,0,0,0
+78,Mansfield School District,2007-08,12,5,6,1,0,0,0
+79,Marlborough School District,2007-08,11,4,4,3,0,0,0
+80,Meriden School District,2007-08,81,36,41,4,0,0,0
+83,Middletown School District,2007-08,39,18,18,3,0,0,0
+84,Milford School District,2007-08,46,20,26,0,0,0,0
+85,Monroe School District,2007-08,38,15,21,2,0,0,0
+86,Montville School District,2007-08,23,11,12,0,0,0,0
+88,Naugatuck School District,2007-08,31,14,17,0,0,0,0
+89,New Britain School District,2007-08,108,62,45,1,0,0,0
+90,New Canaan School District,2007-08,37,9,16,12,0,0,0
+91,New Fairfield School District,2007-08,25,9,13,3,0,0,0
+92,New Hartford School District,2007-08,9,4,3,2,0,0,0
+93,New Haven School District,2007-08,127,57,61,7,2,0,0
+95,New London School District,2007-08,42,19,22,1,0,0,0
+96,New Milford School District,2007-08,50,19,29,2,0,0,0
+94,Newington School District,2007-08,38,20,18,0,0,0,0
+97,Newtown School District,2007-08,56,22,30,4,0,0,0
+98,Norfolk School District,2007-08,**,**,**,**,**,**,**
+99,North Branford School District,2007-08,21,11,9,1,0,0,0
+100,North Canaan School District,2007-08,8,2,4,2,0,0,0
+101,North Haven School District,2007-08,34,17,17,0,0,0,0
+102,North Stonington School District,2007-08,**,**,**,**,**,**,**
+103,Norwalk School District,2007-08,87,40,42,5,0,0,0
+104,Norwich School District,2007-08,57,28,28,1,0,0,0
+106,Old Saybrook School District,2007-08,13,3,10,0,0,0,0
+107,Orange School District,2007-08,18,9,8,1,0,0,0
+108,Oxford School District,2007-08,19,8,8,3,0,0,0
+109,Plainfield School District,2007-08,20,7,13,0,0,0,0
+110,Plainville School District,2007-08,27,7,18,1,1,0,0
+111,Plymouth School District,2007-08,14,7,7,0,0,0,0
+112,Pomfret School District,2007-08,13,6,7,0,0,0,0
+113,Portland School District,2007-08,9,5,3,1,0,0,0
+114,Preston School District,2007-08,7,6,1,0,0,0,0
+116,Putnam School District,2007-08,19,6,13,0,0,0,0
+117,Redding School District,2007-08,23,9,11,3,0,0,0
+206,Regional School District 06,2007-08,14,7,7,0,0,0,0
+210,Regional School District 10,2007-08,24,13,11,0,0,0,0
+212,Regional School District 12,2007-08,13,6,7,0,0,0,0
+213,Regional School District 13,2007-08,21,9,12,0,0,0,0
+214,Regional School District 14,2007-08,17,4,11,2,0,0,0
+215,Regional School District 15,2007-08,48,14,25,9,0,0,0
+216,Regional School District 16,2007-08,24,11,13,0,0,0,0
+217,Regional School District 17,2007-08,32,12,15,5,0,0,0
+218,Regional School District 18,2007-08,18,6,10,1,1,0,0
+118,Ridgefield School District,2007-08,49,15,29,5,0,0,0
+119,Rocky Hill School District,2007-08,19,7,10,2,0,0,0
+121,Salem School District,2007-08,7,1,6,0,0,0,0
+122,Salisbury School District,2007-08,6,5,1,0,0,0,0
+123,Scotland School District,2007-08,**,**,**,**,**,**,**
+124,Seymour School District,2007-08,25,14,10,1,0,0,0
+125,Sharon School District,2007-08,**,**,**,**,**,**,**
+126,Shelton School District,2007-08,38,14,22,1,1,0,0
+127,Sherman School District,2007-08,10,5,5,0,0,0,0
+128,Simsbury School District,2007-08,36,12,21,3,0,0,0
+129,Somers School District,2007-08,10,4,6,0,0,0,0
+132,South Windsor School District,2007-08,47,11,33,3,0,0,0
+131,Southington School District,2007-08,63,28,31,4,0,0,0
+133,Sprague School District,2007-08,**,**,**,**,**,**,**
+134,Stafford School District,2007-08,16,6,10,0,0,0,0
+135,Stamford School District,2007-08,107,53,48,6,0,0,0
+136,Sterling School District,2007-08,**,**,**,**,**,**,**
+137,Stonington School District,2007-08,20,11,6,3,0,0,0
+138,Stratford School District,2007-08,53,27,21,5,0,0,0
+139,Suffield School District,2007-08,22,13,6,2,1,0,0
+140,Thomaston School District,2007-08,11,5,6,0,0,0,0
+141,Thompson School District,2007-08,12,2,10,0,0,0,0
+142,Tolland School District,2007-08,20,13,7,0,0,0,0
+143,Torrington School District,2007-08,54,24,29,1,0,0,0
+144,Trumbull School District,2007-08,57,16,36,4,1,0,0
+146,Vernon School District,2007-08,36,18,18,0,0,0,0
+147,Voluntown School District,2007-08,**,**,**,**,**,**,**
+148,Wallingford School District,2007-08,51,22,19,10,0,0,0
+151,Waterbury School District,2007-08,152,83,55,14,0,0,0
+152,Waterford School District,2007-08,23,11,11,1,0,0,0
+153,Watertown School District,2007-08,16,7,9,0,0,0,0
+155,West Hartford School District,2007-08,78,27,48,3,0,0,0
+156,West Haven School District,2007-08,79,39,32,7,0,1,0
+154,Westbrook School District,2007-08,**,**,**,**,**,**,**
+157,Weston School District,2007-08,18,2,13,3,0,0,0
+158,Westport School District,2007-08,27,10,17,0,0,0,0
+159,Wethersfield School District,2007-08,36,17,17,1,1,0,0
+160,Willington School District,2007-08,8,5,2,1,0,0,0
+161,Wilton School District,2007-08,23,10,12,1,0,0,0
+162,Winchester School District,2007-08,17,10,7,0,0,0,0
+163,Windham School District,2007-08,40,22,18,0,0,0,0
+165,Windsor Locks School District,2007-08,17,10,7,0,0,0,0
+164,Windsor School District,2007-08,35,13,18,4,0,0,0
+166,Wolcott School District,2007-08,23,11,11,1,0,0,0
+167,Woodbridge School District,2007-08,9,3,5,1,0,0,0
+169,Woodstock School District,2007-08,6,4,2,0,0,0,0
